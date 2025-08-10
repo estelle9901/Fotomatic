@@ -1,20 +1,20 @@
-# FotomaticOverview
-This project is a fully self-developed responsive website for a fictional camera accessories store.
-Unlike step-by-step tutorials, the project provided only high-level design requirements, leaving the entire structure, styling, and responsiveness to be implemented from scratch.
+# Fotomatic Overview
 
-The main challenge — and focus — of this project was responsive design. The layout, typography, and images adapt seamlessly across different screen sizes, ensuring a smooth and visually appealing experience on desktops, tablets, and mobile devices.
+This project involved fixing and completing a broken version of a responsive website called Fotomatic, a fictional camera accessories store. The goal was to update the site so that it matches the provided design specifications exactly (design spec link).
 
-Highlights
-Built from scratch using HTML and CSS without any starter templates.
+I worked entirely on my own to identify and resolve layout, styling, and responsiveness issues. Using Chrome DevTools extensively, I inspected CSS rules, debugged style conflicts, and tested changes in real time to ensure a pixel-accurate match to the design.
 
-Responsive-first approach, prioritizing usability and aesthetics on all devices.
+Key Work
+Debugged and fixed broken CSS to restore layout and visual style.
 
-Utilized flexbox and media queries to create flexible layouts.
+Applied responsive design principles to ensure proper display on desktop, tablet, and mobile.
 
-Customized fonts, colors, and styling to align with the brand’s identity.
+Used flexbox, media queries, and font/color adjustments to align with the spec.
 
-Clean, semantic HTML structure and maintainable CSS.
+Employed Chrome DevTools for efficient debugging, rule toggling, and live style testing.
 
-This project demonstrates my ability to independently translate design specifications into a functional, responsive, and professional-looking website.
+Improved site performance and maintainability with clean, semantic HTML & CSS.
+
+This project demonstrates my ability to diagnose and repair existing codebases, implement responsive web design, and work with professional debugging tools to meet exact design requirements.
 
 Visit:https://estelle9901.github.io/Fotomatic/
